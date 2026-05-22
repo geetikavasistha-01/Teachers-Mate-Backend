@@ -1,8 +1,3 @@
-<div align="center">
-
-<br />
-
-<img src="public/logo.svg" alt="Teachers-Mate" width="72" height="72" />
 
 <h1>Teachers-Mate — Backend</h1>
 
@@ -424,6 +419,6 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-Built with care by the Teachers-Mate team · [Frontend Repository →](https://github.com/your-org/teachers-mate-frontend)
+Built with care by the Teachers-Mate team · [Frontend Repository →](https://github.com/geetikavasistha-01/Teachers-Mate-Frontend)
 
 </div>
